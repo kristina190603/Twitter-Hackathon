@@ -1,0 +1,41 @@
+{
+  "person": [
+    {
+      "photo": "https://irecommend.ru/sites/default/files/product-images/1270319/gSMuc7YloxPnDcFsXPi7Jg.jpg",
+      "name": "Утка",
+      "text": "утка бежит куда то где то что то",
+      "image": "https://avatars.dzeninfra.ru/get-zen_doc/28532/pub_5968a9ca4ffd13f35c4fe669_5968aa7d8146c135aa12f621/scale_1200",
+      "id": 2,
+      "surname": "undefined",
+      "num": "undefined"
+    },
+    {
+      "photo": "https://zelenyjmir.ru/wp-content/uploads/2017/06/Utka-27.jpg",
+      "name": "Кря кря",
+      "text": "ничего",
+      "image": "https://zelenyjmir.ru/wp-content/uploads/2017/06/Utka-27.jpg",
+      "id": 4
+    },
+    {
+      "photo": "https://regnum.ru/uploads/pictures/news/2019/01/29/regnum_picture_1548730650273269_normal.jpg",
+      "name": "уточка",
+      "text": "кря кря кря",
+      "image": "https://static.rueconomics.ru/upload/images/2022/5/10/712589_full.jpeg",
+      "id": 6
+    },
+    {
+      "photo": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "name": "Уткиии",
+      "text": "ничего не случилось",
+      "image": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "id": 7
+    },
+    {
+      "photo": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "name": "dug",
+      "text": "sdgdg",
+      "image": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "id": 8
+    }
+  ]
+}
