@@ -1,41 +1,55 @@
 {
   "person": [
     {
-      "photo": "https://irecommend.ru/sites/default/files/product-images/1270319/gSMuc7YloxPnDcFsXPi7Jg.jpg",
-      "name": "Утка",
-      "text": "утка бежит куда то где то что то",
-      "image": "https://avatars.dzeninfra.ru/get-zen_doc/28532/pub_5968a9ca4ffd13f35c4fe669_5968aa7d8146c135aa12f621/scale_1200",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
+      "name": "Metallica",
+      "text": "Metallica выпустила клип на песню Lux Æterna и сделала анонс нового альбома, который выйдет 14 апреля 2023 года. ",
+      "image": "https://i.ytimg.com/vi/_u-7rWKnVVo/maxresdefault.jpg",
       "id": 2,
       "surname": "undefined",
       "num": "undefined"
     },
     {
-      "photo": "https://zelenyjmir.ru/wp-content/uploads/2017/06/Utka-27.jpg",
-      "name": "Кря кря",
-      "text": "ничего",
-      "image": "https://zelenyjmir.ru/wp-content/uploads/2017/06/Utka-27.jpg",
+      "photo": "https://diesel.elcat.kg/uploads/monthly_01_2014/post-213916-1389629436.jpg",
+      "name": "CYBERSPORT",
+      "text": "Киберспортивная организация Virtus.pro представила женский состав по CS:GO. Ростер, в который вошли пять россиянок, будет выступать под тегом VP.Angels. Анонс состоялся в социальных сетях клуба.",
+      "image": "https://virtus-img.cdnvideo.ru/images/as-is/plain/cb/cb7f6eca-cd3b-4521-ba65-8a04b5bbed4f.jpg",
       "id": 4
     },
     {
-      "photo": "https://regnum.ru/uploads/pictures/news/2019/01/29/regnum_picture_1548730650273269_normal.jpg",
-      "name": "уточка",
-      "text": "кря кря кря",
-      "image": "https://static.rueconomics.ru/upload/images/2022/5/10/712589_full.jpeg",
+      "photo": "https://s3-symbol-logo.tradingview.com/intel--600.png",
+      "name": "Intel",
+      "text": "Процессор Intel Core i9-12900K выполнен на базе архитектуры Alder Lake-S, использует техпроцесс 10 нм и отличается высокой производительностью и эффективностью, что позволит с легкостью выполнять любые задачи. Благодаря этому данная модель может стать отличным выбором для игровых систем и мощных рабочих станций. За производительность Intel Core i9-12900K отвечает 8 производительных, 8 энергоэффективных ядер и 24 потока, которые могут работать в широком диапазоне частот с возможностью дополнительного разгона за счет свободного множителя. Благодаря этому, а также большому кэшу разных уровней процессор может обеспечить высокое быстродействие в самых разных условиях. Другой особенностью является поддержка до 128 ГБ оперативной памяти, что позволит создать бескомпромиссное решение для работы и развлечений. Процессор использует сокет LGA 1700 и свежий чипсет 600 серии.",
+      "image": "https://3dnews.ru/assets/external/illustrations/2021/10/27/1052372/CV58wnWAea3m.jpg",
       "id": 6
     },
     {
-      "photo": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
-      "name": "Уткиии",
-      "text": "ничего не случилось",
-      "image": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "photo": "https://wallpaperaccess.com/full/691027.jpg",
+      "name": "ASUS ROG",
+      "text": "Компьютеры серии ROG предлагают все преимущества флагманских игровых платформ. Инновационные системы охлаждения раскрывают полную мощь высокопроизводительных компонентов, установленных в компактные корпуса различных форм-факторов. Эти устройства поддерживают персонализацию и апгрейд, поэтому их можно легко адаптировать под конкретные нужды и бюджет.",
+      "image": "https://dlcdnrog.asus.com/rog/media/1644549597584.webp",
       "id": 7
     },
     {
-      "photo": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
-      "name": "dug",
-      "text": "sdgdg",
-      "image": "https://static.ogorodniki.com/ogorod/49/l_2603375c-6a72-4293-bed2-07491e933849.jpg",
+      "photo": "https://www.iphones.ru/wp-content/uploads/2022/03/nvidia-1080x675-980x620-1.jpg",
+      "name": "Nvidia Official",
+      "text": "NVIDIA® GeForce RTX™ 4090 — лучшая видеокарта GeForce. Она обеспечивает огромный скачок в производительности, эффективности и графике на базе искусственного интеллекта. Испытайте сверхвысокопроизводительные игры, невероятно детализированные виртуальные миры, беспрецедентную производительность и новые творческие возможности. Эти видеокарты созданы на базе архитектуры NVIDIA Ada Lovelace, с 24 ГБ памяти G6X, и обеспечивают непревзойденные возможности для геймеров и авторов контента.",
+      "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ada/rtx-4090/geforce-ada-4090-web-og-1200x630.jpg",
       "id": 8
+    },
+    {
+      "photo": "https://cubiq.ru/wp-content/uploads/2021/02/hyperpc.jpg",
+      "name": "HYPER  PC",
+      "text": "ОПЕРАТИВНОЙ ПАМЯТИ МНОГО НЕ БЫВАЕТ! ПОКУПАЕШЬ 16 ГБ – ПОЛУЧАЕШЬ 32! *Количество товаров по акции ограничено.",
+      "image": "https://hyperpc.ru/images/company/promo/buy-12gb-get-32/main-banner/hyperpc-kingston-promo-block.jpg",
+      "id": 9
+    },
+    {
+      "photo": "https://cubiq.ru/wp-content/uploads/2021/02/hyperpc.jpg",
+      "name": "HYPER PC",
+      "text": "Корпус CYBER полностью изготовлен из алюминиево-магниевого сплава. Дизайн создает ощущение чего-то хищного, стремительного и надежного. Благодаря использованию алюминия с инновационной структурой, он прекрасно сочетает в себе прочность и уникальный внешний вид.",
+      "image": "https://hyperpc.ru/images/product/cyber/product_desciption/teaser/hyperpc-cyber-platium.jpg",
+      "id": 10
     }
   ]
 }

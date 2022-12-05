@@ -140,6 +140,8 @@ const modalImg = document.querySelector('.urlImg')
 const btnPost = document.querySelector('.btnAdd')
 const sectionRead = document.querySelector('.section__read')
 // console.log(modalPhoto, modalName, modalText, modalImg, btnPost)
+
+
 // =========== Create start ============
 function createPost(obj) {
     fetch(API, {
@@ -213,7 +215,7 @@ async function readPost() {
           <i class="far fa-comment"></i>
           <i class="fas fa-retweet"></i>
           <i class="fas fa-heart"></i>
-          <i class="das fa-share-alt"></i>
+          <i class="fas fa-share-alt"></i>
           <img
           src="https://cdn-icons-png.flaticon.com/512/1799/1799391.png"
           alt=""
